@@ -5,3 +5,5 @@ for i in range(54):
     print(i)
 for j in range(32):
     print(j)
+for k in range(55):
+    print(k)
